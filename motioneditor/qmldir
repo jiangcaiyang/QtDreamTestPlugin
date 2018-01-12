@@ -1,4 +1,4 @@
-﻿#module QtDream.MotionEditor
+#module QtDream.MotionEditor
 Main 3.9 qrc:///QtDream/MotionEditor.3/qml/Main.qml
 typeinfo MotionEditorPlugin.qmltypes
 depends QtQml.Models 2.2
@@ -16,5 +16,5 @@ depends QtDream.Controls 1.9
 depends QtDream.Undo 1.3
 designersupported
 
-plugin qtdreammotioneditor
+plugin qtdreammotioneditor .
 classname MotionEditorPlugin
