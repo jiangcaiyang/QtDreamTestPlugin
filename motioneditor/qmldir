@@ -16,5 +16,5 @@ depends QtDream.Controls 1.9
 depends QtDream.Undo 1.3
 designersupported
 
-plugin qtdreammotioneditor .
+plugin qtdreammotioneditor https://raw.githubusercontent.com/jiangcaiyang/QtDreamTestPlugin/master/motioneditor
 classname MotionEditorPlugin
